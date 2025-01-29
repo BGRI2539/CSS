@@ -1,0 +1,45 @@
+=== What The Font Instructions ===
+
+1. Pick a song that you love and get the lyrics from an online source. The
+lyrics must be in English, if your song is in another language please
+translate the lyrics.
+
+2. Using valid HTML, create the structure of the web page. The HTML
+should:
+    a. Use the required metadata.
+    b. Use the appropriate semantic elements.
+    c. Use the correct content elements.
+
+3. Style the page using CSS that is contained in a separate CSS file. When
+styling the page consider the following:
+    a. Does this follow a colour scheme.
+    b. Does the color scheme reflect the band logo or album work.
+
+4. Add some images ... maybe even the music video!
+
+5. Use at least two different fonts (you will likely need more than two).
+
+6. Style the text using various font properties; remember, you are trying to
+relay the emotion behind the lyrics!
+
+7. Add comments to your HTML & CSS files.
+
+8. Validate the HTML using the W3C HTML validation tool.
+
+9. And have fun with this ... BE CREATIVE!!!
+
+=== Checklist ===
+1. [Done - Dream.Wav]
+2. 
+    a. [Done]
+    b. [Done]
+    c. [Done]
+3.
+    a. [Done]
+    b. [Done]
+4. [Done]
+5. [Done]
+6. [Done]
+7. [Done]
+8. [Not Done]
+9. [Done]
